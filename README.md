@@ -1,6 +1,7 @@
 # IOTCOIN Core
 =====================
-Private Crytocurrency
+ 
+Create your own Private Crytocurrency using IOTCOIN
 
 Setup
 ---------------------
